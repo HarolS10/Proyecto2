@@ -12,5 +12,4 @@
 > Una vez un viejo sabio dijo...
 > 
 > >Que las acciones no se las lleva el viento
-> >Y que donde hubo fuego, cenizas quedan
->
+> Y que donde hubo fuego, cenizas quedan
