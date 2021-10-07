@@ -1,6 +1,5 @@
 # Proyecto2
 ## Titulo
-###Subtitulo
 
 -Elemento1
 -Elemento2
